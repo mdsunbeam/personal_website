@@ -102,6 +102,7 @@ nav ul li {
 }
 
 h3 {
+  position: absolute;
   top: 15%;
   left: 10%;
   transform: translate(-15%, -10%);
@@ -111,6 +112,7 @@ h3 {
 }
 
 p3 {
+  position: absolute;
   color: grey;
   top: 19%;
   left: 70%;
@@ -121,6 +123,7 @@ p3 {
 }
 
 p4 {
+  position: absolute;
   color: black;
   top: 25%;
   left: 60%;
@@ -131,6 +134,7 @@ p4 {
 }
 
 p5 {
+  position: absolute;
   color: grey;
   top: 28%;
   left: 60%;
