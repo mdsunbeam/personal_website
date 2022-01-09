@@ -102,7 +102,6 @@ nav ul li {
 }
 
 h3 {
-  position: relative;
   top: 15%;
   left: 10%;
   transform: translate(-15%, -10%);
@@ -112,7 +111,6 @@ h3 {
 }
 
 p3 {
-  position: relative;
   color: grey;
   top: 19%;
   left: 70%;
@@ -123,7 +121,6 @@ p3 {
 }
 
 p4 {
-  position: arelative;
   color: black;
   top: 25%;
   left: 60%;
@@ -134,7 +131,6 @@ p4 {
 }
 
 p5 {
-  position: relative;
   color: grey;
   top: 28%;
   left: 60%;
